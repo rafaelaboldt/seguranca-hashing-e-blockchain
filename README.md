@@ -1,4 +1,4 @@
-# Projeto: Demonstrações de Segurança e Blockchain
+# Demonstrações de Segurança e Blockchain
 
 Curso de Análise e Desenvolvimento de Sistemas - UniSenac
 Disciplina: Algoritmos e Estrutura de Dados II (4º semestre)
@@ -11,7 +11,7 @@ Este repositório contém três scripts de exemplo usados em aula para demonstra
 
 Como executar
 
-Abra um terminal no diretório `aula 14 - 09-06` e execute:
+Abra um terminal e execute:
 
 ```bash
 python senhas.py
